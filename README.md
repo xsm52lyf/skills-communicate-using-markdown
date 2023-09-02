@@ -14,18 +14,18 @@ _Organize ideas and collaborate using Markdown, a lightweight language for text 
 </header>
 
 <!--
-  <<< Author notes: Step 4 >>>
+  <<< Author notes: Step 5 >>>
   Start this step by acknowledging the previous step.
   Define terms and link to docs.github.com.
 -->
 
-## Step 4: Make a task list
+## Step 5: Merge your pull request
 
-_Great job adding a code example to the file :partying_face:_
+_Great job adding a task list to the file :heart:_
 
-**What is a _task list_?** A task list creates checkboxes to check off. They're very useful for tracking issues and pull requests. If you include a task list in the body of an issue or pull request, you'll see a progress indicator in your issue list. The syntax for task lists is very specific. Be sure to include the spaces where required, or else they won't render.
+You can now [merge](https://docs.github.com/get-started/quickstart/github-glossary#merge) your pull request!
 
-### Example
+### :keyboard: Activity: Merge your pull request
 
 ```
 - [x] List syntax is required
@@ -78,6 +78,7 @@ var myVar = "Hello, world!";
 1. In the file, add the correct Markdown for a code example of your choice.
 1. Use the **Preview** tab to check your Markdown formatting.
 1. Commit the changes to the file.
+1. Click **Merge pull request**.
 1. Wait about 20 seconds then refresh this page (the one you're following instructions from). [GitHub Actions](https://docs.github.com/en/actions) will automatically update to the next step.
 
 <footer>
